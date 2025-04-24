@@ -1,3 +1,7 @@
+import streamlit as st
+st.title("Data Analysis")
+
+st.write("Yes it really works")
 import matplotlib.pyplot as plt
 import numpy as np
 
